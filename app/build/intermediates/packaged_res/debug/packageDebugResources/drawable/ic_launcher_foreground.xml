@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Original gem mark (not the reference app's logo) -->
+    <path android:fillColor="#FFE07A" android:pathData="M38,40 L54,30 L70,40 L54,46 Z" />
+    <path android:fillColor="#F2C443" android:pathData="M38,40 L54,46 L54,80 Z" />
+    <path android:fillColor="#D9A82A" android:pathData="M70,40 L54,46 L54,80 Z" />
+</vector>

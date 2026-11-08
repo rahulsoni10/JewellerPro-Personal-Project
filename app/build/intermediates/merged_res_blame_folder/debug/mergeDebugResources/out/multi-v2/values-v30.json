@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.jeweldesk.app-mergeDebugResources-2:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/private/var/folders/gy/p25r1b411671nw7lcclw5zxc0000gp/T/cursor-sandbox-cache/9bd1a85eefd384ecb02501859060dd6f/gradle/caches/8.11.1/transforms/7f5532479d118f232c56cd34d706bd3a/transformed/material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
