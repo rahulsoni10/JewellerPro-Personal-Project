@@ -1,0 +1,8 @@
+-keepattributes *Annotation*, InnerClasses
+-dontnote kotlinx.serialization.**
+-keepclassmembers class kotlinx.serialization.json.** { *** Companion; }
+-keep,includedescriptorclasses class com.jeweldesk.app.**$$serializer { *; }
+-keepclassmembers class com.jeweldesk.app.** { *** Companion; }
+-keepclasseswithmembers class com.jeweldesk.app.** { kotlinx.serialization.KSerializer serializer(...); }
+-keep class com.journeyapps.** { *; }
+-keep class com.google.zxing.** { *; }
